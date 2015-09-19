@@ -1,7 +1,7 @@
-
-
-
-
+body {
+	margin-left: 30px;
+	background-color: gray;
+}
 
 .topbar {
 	width: 945px;
@@ -29,4 +29,14 @@
 
 a {
 	color: blue;
+}
+
+.linkcolor {
+	color: purple;
+}
+
+.lowerbar {
+	width: 945px;
+	background-color: #F5A9A9;
+	padding: 1px 0px 1px 10px;
 }
